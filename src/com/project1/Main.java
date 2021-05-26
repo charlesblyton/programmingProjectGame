@@ -22,6 +22,7 @@ public class Main {
         }
         // Second Paragraph of introduction text
         System.out.println("We are actually making some headway!");
+        System.out.println("How do we make this work on Git?");
 
 
     }
