@@ -12,15 +12,18 @@ public class Main {
         System.out.println("You're looking forward to climbing into bed. ");
         System.out.println("In your mind you run through everything you needed to do before bed: All the lights downstairs are off, and the doors are locked. ");
         System.out.println("You left garage door roller door is open! Damn! You'll have to go back downstairs after my shower.");
+        System.out.println("Option 1: Whatever");
+        System.out.println("Option 2: Whatever");
+        System.out.println("Option 3: Whatever");
 
-        switch (getUserResponse(3);) {
+        switch (getUserResponse(6)) {
             // Enter the number of options you have for this question in the (). example: getUserResponse(3) for 3 options
             // The switch statement tells the code what to do given the user's User's selection, don't forget to add 'break' afterwards...
             // make sure you have a case for each option as well as setting the number of options in the switch() function
             case 1:
+
                 break; //We just want to continue in the story so we don't need any other code here
             case 2:
-                newmethod():
                 System.out.println("you selected the 2nd option");
                 break;
             case 3:
@@ -31,6 +34,8 @@ public class Main {
         System.out.println("We are actually making some headway!");
         System.out.println("How do we make this work on Git?");
         System.out.println("How do we make this work on Git?");
+
+        System.out.println("trying out a branch");
 
 
     }
